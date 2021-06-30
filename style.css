@@ -1,0 +1,26 @@
+#start-btn
+{
+    width: 10%;
+    height: 5%
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#abc
+{
+    width: 150px !important;
+    border-radius: 100px !important;
+    height: 100.05px !important;
+}
+#textbox
+{
+    width: 300px;
+}
+img{
+    height: 250px;
+    width: 360px;
+    padding: 10px;
+}
